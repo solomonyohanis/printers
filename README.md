@@ -1,6 +1,5 @@
 # Printer Troubleshooting — Common Issues and Fixes
 
-![Printer Troubleshooting](images/printer-banner.png)
 
 This reference document covers the most common printer issues encountered in a help desk environment, along with step-by-step diagnostic and resolution procedures. It covers local printers, network printers, print queues, and driver management on Windows.
 
